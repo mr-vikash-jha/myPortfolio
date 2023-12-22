@@ -1,6 +1,6 @@
 import React from 'react'
 import { projectExperience, WhatDoIHelp } from '../../utils/data'
-import css from './Expertise.module.scss'
+import css from './Experties.module.scss'
 import {motion} from 'framer-motion'
 import {fadeIn, staggerContainer, textVariant} from '../../utils/motion.js'
 const Experties = () => {
@@ -44,11 +44,11 @@ const Experties = () => {
 
                 <div className={`flexCenter ${css.stats}`}>
                     <div className={`flexCenter ${css.stat}`}>
-                        <span className='primaryText'>285+</span>
+                        <span className='primaryText'>10+</span>
                         <span className='secondaryText'>Project Completed</span>
                     </div>
                     <div className={`flexCenter ${css.stat}`}>
-                        <span className='primaryText'>190+</span>
+                        <span className='primaryText'>4+</span>
                         <span className='secondaryText'>Happy Clients</span>
                     </div>
                 </div>

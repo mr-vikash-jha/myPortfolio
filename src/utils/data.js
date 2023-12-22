@@ -3,23 +3,23 @@ import { CiMobile1 } from "react-icons/ci";
 import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
-    name: "Mobile App Design",
-    projects: 63,
-    icon: CiMobile1,
-    bg: "#EEC048",
-  },
-  {
     name: "Website Design",
-    projects: 76,
+    projects: 4,
     icon: HiOutlineDesktopComputer,
     bg: "#286F6C",
   },
   {
-    name: "Brand Identity",
-    projects: 47,
-    icon: MdWorkspacesOutline,
-    bg: "#F26440",
+    name: "Mobile App Design",
+    projects: 5,
+    icon: CiMobile1,
+    bg: "#EEC048",
   },
+  // {
+  //   name: "Brand Identity",
+  //   projects: 47,
+  //   icon: MdWorkspacesOutline,
+  //   bg: "#F26440",
+  // },
 ];
 
 export const WhatDoIHelp = [
@@ -29,25 +29,25 @@ export const WhatDoIHelp = [
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "Synoriq, Jaipur",
+    tenure: "June 2021 - July 2022",
+    role: "Associate Software Engineer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Responsible for complete ownership of multiple projects in React, Design and Architect engineering solutions for products.",
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
+    place: "Medtigo, North Adams (Remote)",
+    tenure: "July 2022 - June 2023",
+    role: "FullStack React Native Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Responsible for complete ownership of Medtigo app in Front-end (IOS & Android)",
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
+    place: "EnterPrise Monkey",
+    tenure: "June 2023 - Present",
+    role: "Sr. React Native Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "",
   },
 ];
 
